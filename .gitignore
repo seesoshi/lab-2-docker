@@ -1,0 +1,5 @@
+**/__pycache__
+*.db
+*.tar.gz
+*.pem
+docker-deb
